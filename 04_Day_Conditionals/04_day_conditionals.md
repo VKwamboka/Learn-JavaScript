@@ -1,4 +1,20 @@
+
 <div align="center">
+  <h1> Learn JavaScript: Introduction</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/lorenah-m-859883167/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Skylar_Lorena">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Skylar_Lorena?style=social">
+  </a>
+
+<sub>Author:
+<a href="https://www.linkedin.com/in/lorenah-m-859883167/" target="_blank">Lorenah Mbogo</a><br>
+<small> June, 2022</small>
+</sub>
+
+<div>
+
   <h1> 30 Days Of JavaScript: Conditionals</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
