@@ -1,4 +1,4 @@
-# 30 Days Of JavaScript
+# Learn JavaScript
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -20,7 +20,7 @@
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 <div align="center">
-  <h1> 30 Days Of JavaScript: Introduction</h1>
+  <h1> Learn JavaScript: Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/lorenah-m-859883167/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -42,9 +42,9 @@
 
 
 
-![Thirty Days Of JavaScript](./images/day_1_1.png)
+![Learn JavaScript](./images/day_1_1.png)
 
-- [30 Days Of JavaScript](#30-days-of-javascript)
+- [Learn JavaScript](#30-days-of-javascript)
 - [📔 Day 1](#-day-1)
 	- [Introduction](#introduction)
 	- [Requirements](#requirements)
@@ -84,7 +84,7 @@
 
 **Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming.
 
-**A 30DaysOfJavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
+**A Learn JavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
 
 In this step by step JavaScript challenge, you will learn JavaScript, the most popular programming language in the history of mankind.
 JavaScript is used **_to add interactivity to websites, to develop mobile apps, desktop applications, games_** and nowadays JavaScript can be used for **_machine learning_** and **_AI_**.
