@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/Skylar_Lorena">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/skylar-lorena?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Skylar_Lorena?style=social">
   </a>
 
 <sub>Author:
